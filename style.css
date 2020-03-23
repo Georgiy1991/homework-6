@@ -316,6 +316,100 @@ header .bottom_header nav{
     margin-top: 35px;
 }
 
+.container4_1{
+padding-left: 0;
+
+}
+.container4_1 .item:last-child{
+    padding-left: 45px;
+
+}
+.container4_1 h3{
+    Font-family: 'Proxima Nova Bold';
+    font-size: 36px;
+    color: #252c30;
+    padding-top: 50px;
+    padding-bottom: 55px;
+
+}
+
+.container4_1 .item ul li span{
+display: inline-block;
+background-color: #2d3e50;
+width: 77px;
+height: 77px;
+border-radius: 50%;
+text-align: center;
+line-height: 92px;
+
+}
+
+.container4_1 .item h5{
+    display: inline-block;
+    Font-family: 'Proxima Nova Bold';
+    font-size: 18px;
+    color: #232323;
+    text-transform: uppercase;
+    margin-left: 30px;
+    position: relative;
+    top: -25px;
+}
+
+.container4_1 .discription{
+    margin-left: 113px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    position: relative;
+    top:-45px;
+
+}
+.container4_1 .item .left-img{
+    max-width: 100%;
+}
+
+
+.container6{
+    margin-top: 108px;
+}
+
+.container6 .text{
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container6 h4{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    text-align: start;
+    margin-left: 111px;
+        
+}
+.container6 .grid-box p{
+    text-align: start;
+    margin-left: 111px;
+    margin-top: 0;
+    line-height: 20px;
+}
+
+.grid-box{
+    max-width: 1100px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-column-gap: 40px;
+    grid-row-gap: 68px;
+    justify-items: center;
+    margin: 0 auto;
+}
+
+.grid-box img{
+    float: left;
+}
+
+
+
 .continer7 ul{
     font-display: flex;
     justify-content: center;
